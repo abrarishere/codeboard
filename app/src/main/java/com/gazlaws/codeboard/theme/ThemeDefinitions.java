@@ -6,7 +6,6 @@ public class ThemeDefinitions {
     private static int blackColor = 0xff000000;
     private static int blueColor = 0xff0000ff;
     private static int lightBlueColor = 0xffadd8e6;
-    private static int purpleColor = 0xff800080;
     private static int lightPurpleColor = 0xffba55d3;
     private static int pinkColor = 0xffffc0cb;
     private static int lightPinkColor = 0xffffb6c1;
