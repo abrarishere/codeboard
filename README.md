@@ -9,3 +9,14 @@
 - ; / \ ! | &$ etc
 - No ads or IAP, made for students!
 
+---
+
+## Custom Features in This Fork
+
+- Custom gradient backgrounds for keyboard and buttons
+- Adjustable key press sound
+- Adjustable background blur and transparency for keyboard
+- Adjustable button transparency
+- Multiple custom themes
+- Enhanced personalization options
+
